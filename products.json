@@ -1,0 +1,38 @@
+[
+    {
+        "name": "iphone",
+        "price": 154,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 154,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "galaxy",
+        "price": 124,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "hp laptop",
+        "price": 130,
+        "feature": true,
+        "company": "hp"
+    },
+    {
+        "name": "inspiron 14",
+        "price": 160,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "Redmi Note 10 pro",
+        "price": 80,
+        "feature": true,
+        "company": "mi"
+    }
+]
